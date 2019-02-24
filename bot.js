@@ -45,7 +45,11 @@ function ReturnSmug(){
         "https://media1.tenor.com/images/906bbc85a7820f68a7fc658aeeceb069/tenor.gif?itemid=10195728",
         "https://i.kym-cdn.com/photos/images/original/001/087/562/93c.gif",
         "https://lh3.googleusercontent.com/-Lry3vvmKGus/W3K0p33t76I/AAAAAAAAy6A/_wTQ0uEOYc0k3QD8sN29wo6ScvJtIO-VACJoC/w272-h320-p-rw/gplus657883443.gif",
-        "https://thumbs.gfycat.com/BoilingLeanBonobo-size_restricted.gif"
+        "https://thumbs.gfycat.com/BoilingLeanBonobo-size_restricted.gif",
+        "https://i.gifer.com/CCOs.gif",
+        "http://clipart-library.com/images/BcaEg8Lzi.gif",
+        "https://i.imgur.com/SBZXr7z.gif",
+        "Chris Is Gay"
     ];
 
     return smugs[getRandomInteger(0, smugs.length)];
